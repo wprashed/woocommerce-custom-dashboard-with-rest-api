@@ -5,7 +5,7 @@ require __DIR__ . '/vendor/autoload.php';
 use Automattic\WooCommerce\Client;
 use Automattic\WooCommerce\HttpClient\HttpClientException;
 $woocommerce = new Client(
-    'https://tallynine.com', // Your store URL
+    'https://gems.wprashed.com', // Your store URL
     'ck_bfc96e5f26d24ea8a617ce942da2790e62083e48', // Your consumer key
     'cs_a3f52cce66b70ef398e84bfb799d587da873ddd3', // Your consumer secret
     [
